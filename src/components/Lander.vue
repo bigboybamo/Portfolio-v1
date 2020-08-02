@@ -2,22 +2,10 @@
   <div>
     <section class="section">
       <div class="container-fliud">
-        <img
-        
-          class="rounded-circle"
-          src=""
-        />
+        <img class="rounded-circle" src="" />
         <h1>Hi, Im Olabamiji</h1>
         <h1>Software Developer</h1>
         <p>I enjoy Building things to make the world a beter place.</p>
-        <button
-          type="button"
-          class="btn btn-primary btn-lg"
-          data-toggle="modal"
-          data-target=".bd-example-modal-lg"
-        >
-          Contact
-        </button>
       </div>
     </section>
 
@@ -34,7 +22,7 @@
                 <img
                   alt="Vue logo"
                   class="rounded-circle img-custome"
-                  src="https://www.wetechnology.cz/wp-content/uploads/2017/02/uxui.jpg"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383306/hjuvnzpcbp2yhrd7b6ph.jpg"
                 />
                 <h2>Url Shortener</h2>
               </div>
@@ -62,9 +50,8 @@
             <div class="card">
               <div class="card-head">
                 <img
-                  alt="Vue logo"
                   class="rounded-circle img-custome"
-                  src="https://i.pinimg.com/originals/4a/70/56/4a70563234301578c158dc142384a1c3.png"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383347/pk2xa7chqwsw5uufrxfb.jpg"
                 />
                 <h2>Weather app</h2>
               </div>
@@ -86,9 +73,8 @@
             <div class="card">
               <div class="card-head">
                 <img
-                  alt="Vue logo"
                   class="rounded-circle img-custome"
-                  src="https://cdn.mos.cms.futurecdn.net/wH5y2PkWhCxqKBje8rBp5e.jpg"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383396/zndemr5usgmdsocjdzb6.jpg"
                 />
                 <h2>Real Time Image Uploader</h2>
               </div>
@@ -99,7 +85,11 @@
                   renders an uploaded image to the DOM in real Time
                 </p>
                 <button type="button" class="btn btn-outline-secondary">
-                <a href="https://github.com/bigboybamo/Realtime-image-uploader" > Source code </a>
+                  <a
+                    href="https://github.com/bigboybamo/Realtime-image-uploader"
+                  >
+                    Source code
+                  </a>
                 </button>
               </div>
             </div>

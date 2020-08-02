@@ -3,11 +3,11 @@
     <div>
         <div class="container" style="padding:10%">
             <h2>Contact Me</h2>
-            <form action="mailto:alloyking1@gmail.com" 
+            <form action="oyetubobamiji@gmail.com" 
               method="post" enctype="text/plain">
                 <div class="form-group">
                     <input type="email" class="form-control"
-                      v-model="contact.eamil" placeholder="Enter email">
+                      v-model="contact.email" placeholder="Enter email">
                 </div>
                 <div class="form-group">
                     <textarea class="form-control" 
@@ -42,10 +42,12 @@ export default {
         submit(){
             //validating the form
             if(this.contact.email !="" && this.contact.message != ""){
-                // send details to email
+            alert('Thank You')
+            
             }else{
                 alert("All fields are required");
             }
+            
         }
     }
 }

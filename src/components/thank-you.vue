@@ -4,7 +4,7 @@
     Thank you
   </h1>
   <p class="text-center">
-    <a href="/">Back to home</a>
+    <router-link to="/"> Back to Home </router-link>
   </p>
 </div>
 </template>

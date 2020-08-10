@@ -1,7 +1,9 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="dark" variant="dark" class="navv">
-      <b-navbar-brand><router-link to="/">Home</router-link></b-navbar-brand>
+      <b-navbar-brand>
+        <router-link to="/">Home</router-link>
+      </b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

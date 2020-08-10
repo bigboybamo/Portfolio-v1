@@ -2,7 +2,7 @@
   <div>
     <div class="container" style="padding:10%">
       <h2>Contact Me</h2>
-      <form name="contact" action method="post">
+      <form name="contact" action method="POST" data-netlify="true">
         <input type="hidden" name="form-name" value="contact" />
         <div class="form-group">
           <input type="email" class="form-control" name="email" placeholder="Enter email" />

@@ -1,7 +1,8 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Lander from "./components/Lander.vue";
-import thankyou from "./components/thank-you.vue";
+import contact from "./components/contact.vue"
+
 
 Vue.use(VueRouter);
 
@@ -12,10 +13,11 @@ const routes = [
     component: Lander,
   },
   {
-    path: "/thank-you",
-    name: "thankyou",
-    component: thankyou,
-  },
+    path:"/contact",
+    name:"contact",
+    component:contact
+  }
+
 ];
 
 const router = new VueRouter({

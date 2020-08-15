@@ -1,15 +1,15 @@
 <template>
-  <div>
-    <section class="section">
+  <div id="top">
+    <section class="section" >
       <div class="container-fliud">
         <img class="rounded-circle" src="" />
-        <h1>Hi, Im Olabamiji</h1>
-        <h1>Software Developer</h1>
-        <p>I enjoy Building things to make the world a beter place.</p>
+        <h1>Hi, Im Olabamiji,</h1>
+        <h1>Web Developer.</h1>
+        <p>Passionate about learning, Constantly trying to improve.</p>
       </div>
     </section>
 
-    <section class="protfolio">
+    <section class="protfolio" id="middle">
       <h1 class="thisport">Portfolio</h1>
       <p class="thisport">
         Here's a list of some of the things i've been doing
@@ -96,6 +96,7 @@
           </div>
         </div>
       </div>
+     <h3> More Projects can be found <u><a href="https://github.com/bigboybamo">Here</a></u></h3>
     </section>
     <div>
       <contact />
@@ -118,7 +119,7 @@ export default {
 .section {
   padding-top: 10%;
   padding-bottom: 10%;
-  padding-left: 39%;
+  padding-left: 36%;
 }
 
 .protfolio {
@@ -143,5 +144,10 @@ export default {
 
 .thisport {
   padding-left: 39%;
+}
+
+h3{
+  padding-left: 35%;
+  margin-top: 7ch;
 }
 </style>

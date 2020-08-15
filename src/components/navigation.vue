@@ -2,8 +2,16 @@
   <div>
     <b-navbar toggleable="lg" type="dark" variant="dark" class="navv">
       <b-navbar-brand>
-        <router-link to="/">Home</router-link>
+       <a href="#top">About</a> 
       </b-navbar-brand>
+       <b-navbar-brand>
+       <a href="#middle">Portfolio</a> 
+      </b-navbar-brand>
+       <b-navbar-brand>
+       <a href="#bottom">Contact</a> 
+      </b-navbar-brand>
+
+
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

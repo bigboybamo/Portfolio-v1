@@ -22,9 +22,9 @@
                 <img
                   alt="Vue logo"
                   class="rounded-circle img-custome"
-                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383306/hjuvnzpcbp2yhrd7b6ph.jpg"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1614067847/chatsapp_imqqhy.jpg"
                 />
-                <h2>Url Shortener</h2>
+                <h2>Chatsapp</h2>
               </div>
               <hr />
               <div class="card-body">
@@ -50,7 +50,7 @@
               <div class="card-head">
                 <img
                   class="rounded-circle img-custome"
-                  src="https://res.cloudinary.com/dousncxte/image/upload/v1614067847/chatsapp_imqqhy.jpg"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383347/pk2xa7chqwsw5uufrxfb.jpg"
                 />
                 <h2>Weather app</h2>
               </div>

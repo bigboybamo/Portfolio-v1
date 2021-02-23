@@ -2,7 +2,7 @@
 <template>
 <div class="rattt">
   <b-container class="bv-example-row">
-      GET IN TOUCH
+      Find me on any of these platforms
   <b-row>
     <b-col><a href="https://github.com/bigboybamo"><ion-icon name="logo-github"></ion-icon></a></b-col>
     <b-col><a href="https://twitter.com/_bamoooo"> <ion-icon name="logo-twitter"></ion-icon></a></b-col>

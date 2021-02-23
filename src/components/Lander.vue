@@ -4,7 +4,7 @@
       <div class="container-fliud">
         <img class="rounded-circle" src="" />
         <h1>Hi, Im Olabamiji,</h1>
-        <h1>Web Developer.</h1>
+        <h1>Software Developer.</h1>
         <p>Passionate about learning, Constantly trying to improve.</p>
       </div>
     </section>
@@ -29,16 +29,15 @@
               <hr />
               <div class="card-body">
                 <p>
-                  Simple Url Shortener built with Nodejs using the express
-                  framework
+                  Simple chat application built with Node.Js and Socket.io
                 </p>
                 <button type="button" class="btn btn-outline-secondary">
-                  <a href="https://github.com/bigboybamo/Url-Shortener">
+                  <a href="https://github.com/bigboybamo/node_socketio_chat">
                     Soure code</a
                   >
                 </button>
                 <button type="button" class="btn btn-outline-secondary">
-                  <a href="https://shielded-chamber-32646.herokuapp.com">
+                  <a href="https://chatsappp.herokuapp.com/">
                     Demo</a
                   >
                 </button>
@@ -51,7 +50,7 @@
               <div class="card-head">
                 <img
                   class="rounded-circle img-custome"
-                  src="https://res.cloudinary.com/dousncxte/image/upload/v1596383347/pk2xa7chqwsw5uufrxfb.jpg"
+                  src="https://res.cloudinary.com/dousncxte/image/upload/v1614067847/chatsapp_imqqhy.jpg"
                 />
                 <h2>Weather app</h2>
               </div>
